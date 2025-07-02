@@ -289,7 +289,7 @@ export const Home = ({ activeBar, activeModal }) => {
                   </button>
                   <button
                     type="submit"
-                    className="px-8 py-3 bg-gradient-to-r from-[#55D6C2] to-[#4AC5B2] text-white rounded-lg hover:from-[#4AC5B2] to-[#3BB5A1] transition-all shadow-lg font-medium"
+                    className="px-8 py-3 bg-gradient-to-r from-[#55D6C2] text-white rounded-lg hover:from-[#4AC5B2] to-[#3BB5A1] transition-all shadow-lg font-medium"
                   >
                     Submit Ticket
                   </button>
